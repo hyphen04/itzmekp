@@ -101,18 +101,6 @@ p{
         margin-left: 25%;
     }
 
-    .main-section{
-      height: 100vh;
-      width: 100%;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      background-image:url("./img/home-bg.jpg") ;
-      background-size: cover;
-      background-repeat: no-repeat;
-      
-  }
-
 }
 .section {
     padding: 50px 0;
