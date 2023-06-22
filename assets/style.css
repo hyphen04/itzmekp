@@ -5,7 +5,7 @@ html,
 body {
   font-family: "Poppins", sans-serif;
   place-items: center;
-  background-color: #f5f1f1;
+  background-color: #ffffff;
 }
 
 a{
@@ -17,7 +17,6 @@ a:hover{
 
 
  .home-section{
-  height: 100%;
   display: flex;
   align-items: center;
  }
@@ -70,7 +69,7 @@ p{
     padding: 50px 0;
 }
 .gray-bg {
-    background-color: #fffdfd;
+    background-color: #f5f5f5;
 }
 img {
     max-width: 100%;
@@ -290,11 +289,4 @@ mark {
   background: #CD201F;
   color: #ffffff;
 }
-
-
-
-
-
-
-
 
